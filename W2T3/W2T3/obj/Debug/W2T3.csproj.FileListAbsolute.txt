@@ -1,0 +1,6 @@
+c:\users\timster\documents\visual studio 2015\Projects\W2T3\W2T3\bin\Debug\W2T3.exe.config
+c:\users\timster\documents\visual studio 2015\Projects\W2T3\W2T3\bin\Debug\W2T3.exe
+c:\users\timster\documents\visual studio 2015\Projects\W2T3\W2T3\bin\Debug\W2T3.pdb
+c:\users\timster\documents\visual studio 2015\Projects\W2T3\W2T3\obj\Debug\W2T3.csprojResolveAssemblyReference.cache
+c:\users\timster\documents\visual studio 2015\Projects\W2T3\W2T3\obj\Debug\W2T3.exe
+c:\users\timster\documents\visual studio 2015\Projects\W2T3\W2T3\obj\Debug\W2T3.pdb
