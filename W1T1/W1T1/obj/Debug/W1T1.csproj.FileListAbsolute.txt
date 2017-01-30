@@ -1,0 +1,5 @@
+c:\users\timster\documents\visual studio 2015\Projects\W1T1\W1T1\bin\Debug\W1T1.exe.config
+c:\users\timster\documents\visual studio 2015\Projects\W1T1\W1T1\bin\Debug\W1T1.exe
+c:\users\timster\documents\visual studio 2015\Projects\W1T1\W1T1\bin\Debug\W1T1.pdb
+c:\users\timster\documents\visual studio 2015\Projects\W1T1\W1T1\obj\Debug\W1T1.exe
+c:\users\timster\documents\visual studio 2015\Projects\W1T1\W1T1\obj\Debug\W1T1.pdb
