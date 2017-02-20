@@ -1,0 +1,6 @@
+c:\users\timster\documents\visual studio 2015\Projects\W1T4\W1T4\bin\Debug\W1T4.exe.config
+C:\Users\Timster\Documents\Visual Studio 2015\Projects\W1T4\W1T4\bin\Debug\W1T4.exe
+C:\Users\Timster\Documents\Visual Studio 2015\Projects\W1T4\W1T4\bin\Debug\W1T4.pdb
+C:\Users\Timster\Documents\Visual Studio 2015\Projects\W1T4\W1T4\obj\Debug\W1T4.csprojResolveAssemblyReference.cache
+C:\Users\Timster\Documents\Visual Studio 2015\Projects\W1T4\W1T4\obj\Debug\W1T4.exe
+C:\Users\Timster\Documents\Visual Studio 2015\Projects\W1T4\W1T4\obj\Debug\W1T4.pdb
