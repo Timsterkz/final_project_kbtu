@@ -1,0 +1,9 @@
+c:\users\timster\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\x64\Debug\WindowsFormsApplication5.exe.config
+c:\users\timster\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\x64\Debug\WindowsFormsApplication5.exe
+c:\users\timster\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\x64\Debug\WindowsFormsApplication5.pdb
+c:\users\timster\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x64\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\timster\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x64\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\timster\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x64\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\timster\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x64\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\timster\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x64\Debug\WindowsFormsApplication5.exe
+c:\users\timster\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x64\Debug\WindowsFormsApplication5.pdb
