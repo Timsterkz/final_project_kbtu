@@ -1,0 +1,9 @@
+c:\users\timster\documents\visual studio 2015\Projects\астероиды упражнение\астероиды упражнение\bin\Debug\астероиды упражнение.exe.config
+c:\users\timster\documents\visual studio 2015\Projects\астероиды упражнение\астероиды упражнение\obj\Debug\астероиды упражнение.csprojResolveAssemblyReference.cache
+c:\users\timster\documents\visual studio 2015\Projects\астероиды упражнение\астероиды упражнение\obj\Debug\астероиды_упражнение.Form1.resources
+c:\users\timster\documents\visual studio 2015\Projects\астероиды упражнение\астероиды упражнение\obj\Debug\астероиды_упражнение.Properties.Resources.resources
+c:\users\timster\documents\visual studio 2015\Projects\астероиды упражнение\астероиды упражнение\obj\Debug\астероиды упражнение.csproj.GenerateResource.Cache
+c:\users\timster\documents\visual studio 2015\Projects\астероиды упражнение\астероиды упражнение\bin\Debug\астероиды упражнение.exe
+c:\users\timster\documents\visual studio 2015\Projects\астероиды упражнение\астероиды упражнение\bin\Debug\астероиды упражнение.pdb
+c:\users\timster\documents\visual studio 2015\Projects\астероиды упражнение\астероиды упражнение\obj\Debug\астероиды упражнение.exe
+c:\users\timster\documents\visual studio 2015\Projects\астероиды упражнение\астероиды упражнение\obj\Debug\астероиды упражнение.pdb
