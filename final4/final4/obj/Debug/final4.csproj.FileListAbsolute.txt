@@ -1,0 +1,9 @@
+C:\final\final4\final4\bin\Debug\final4.exe.config
+C:\final\final4\final4\bin\Debug\final4.exe
+C:\final\final4\final4\bin\Debug\final4.pdb
+C:\final\final4\final4\obj\Debug\final4.csprojResolveAssemblyReference.cache
+C:\final\final4\final4\obj\Debug\final4.Form1.resources
+C:\final\final4\final4\obj\Debug\final4.Properties.Resources.resources
+C:\final\final4\final4\obj\Debug\final4.csproj.GenerateResource.Cache
+C:\final\final4\final4\obj\Debug\final4.exe
+C:\final\final4\final4\obj\Debug\final4.pdb
