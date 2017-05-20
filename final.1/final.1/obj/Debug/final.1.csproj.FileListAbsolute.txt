@@ -1,0 +1,9 @@
+C:\final\final.1\final.1\bin\Debug\final.1.exe.config
+C:\final\final.1\final.1\bin\Debug\final.1.exe
+C:\final\final.1\final.1\bin\Debug\final.1.pdb
+C:\final\final.1\final.1\obj\Debug\final.1.csprojResolveAssemblyReference.cache
+C:\final\final.1\final.1\obj\Debug\final._1.Form1.resources
+C:\final\final.1\final.1\obj\Debug\final._1.Properties.Resources.resources
+C:\final\final.1\final.1\obj\Debug\final.1.csproj.GenerateResource.Cache
+C:\final\final.1\final.1\obj\Debug\final.1.exe
+C:\final\final.1\final.1\obj\Debug\final.1.pdb
